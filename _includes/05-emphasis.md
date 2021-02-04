@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+:sparkles: *Nagaraju Matta*
+_This will also be italic_
+
+:sparkles: **Working as Sr.Software Engineer**
+__This will also be bold__
+
+:sparkles: _You **DevOps** combine them_
